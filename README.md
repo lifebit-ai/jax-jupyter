@@ -20,7 +20,7 @@
 | 9:15-9:30   | Demoing the end result                                                      |
 | 9:30-10:00  | [1. Introduction to literate programming workflows with Jupyter Notebooks](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#1-introduction-to-literate-programming-workflows-with-jupyter-notebooks)    |
 | 10:00-10:10 | Configuration of Jupyter Notebooks on Lifebit CloudOS                       |
-| 10:10-11:00 | [Exploratory Data Analysis Fundamentals with Pandas in Jupyter Notebooks](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#exploratory-data-analysis-fundamentals-with-pandas---)     |
+| 10:10-11:00 | [2. Exploratory Data Analysis Fundamentals with Pandas in Jupyter Notebooks](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#2-exploratory-data-analysis-fundamentals-with-pandas---)     |
 | 11:00-11:20 | :coffee: _Coffee Break_                                                              |
 | 11:20-13:00 | [Interactive plotting with R in Jupyter Notebooks](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#interactive-plotting-with-r-in-jupyter-notebooks)                           |
 | 13:00-14:00 | :bento: _Lunch_                                                                     |
