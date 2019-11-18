@@ -99,11 +99,20 @@ What does it take to submit a fully reproducible research piece? Notebooks, Jupy
 Plan:
 </summary>
 
-- Find the repository of the publication with the accomodating Jupyter Notebook
-- Go to our CloudOS Jupyter Notebook session and `git clone` the repository
-- Launch the `.ipynb` file and start exploring
-- Troubleshoot as needed and note difficulties in reproducing the analysis
-- Make an issue and file the problems we have noticed
+#### Step 1 
+Find the repository of the publication with the accomodating Jupyter Notebook
+
+#### Step 2
+Go to our CloudOS Jupyter Notebook session and `git clone` the repository
+
+#### Step 3
+Launch the `.ipynb` file and start exploring
+
+#### Step 4
+Troubleshoot as needed and note difficulties in reproducing the analysis
+
+#### Step 5
+Make an issue and file the problems we have noticed
 
 </details>
 
