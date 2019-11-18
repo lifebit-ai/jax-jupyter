@@ -99,13 +99,21 @@ What does it take to submit a fully reproducible research piece? Notebooks, Jupy
 Plan:
 </summary>
 
-#### Step 1 
-Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) the repository of the publication with the accomodating Jupyter Notebook
+
+#### Step 1
+Go to CloudOS and initialise a Jupyter Notebook session:
+
+- Click `New analysis` > `Jupyter Session`
+- Create a new Project by clicking `New` and name it `reproducible-paper.
+- Choose an instance, for example `m1.xlarge` which has 4cpus and 15Gb RAM (it should be more than enough).
+
+We don't need to select data because we are going to bring code and data from github.
 
 #### Step 2
-Go to our CloudOS Jupyter Notebook session and `git clone` the repository
+Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) and `git clone` the repository.
 
 #### Step 3
+Navigate to the [RainCloudPlots/tutorial_python/raincloud_tutorial_python.ipynb]()
 Launch the `.ipynb` file and start exploring
 
 #### Step 4
