@@ -38,7 +38,7 @@ Installing packages
 - with `pip`
 
 
-### Jupyter Shortcuts Cheatsheet
+#### Jupyter Shortcuts Cheatsheet
 
 WIP: Create markdown table for the most handy ones, here is a good place to start: http://maxmelnick.com/2016/04/19/python-beginner-tips-and-tricks.html
 
