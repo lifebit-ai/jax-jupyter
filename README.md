@@ -106,7 +106,7 @@ Go to CloudOS and initialise a Jupyter Notebook session:
 - Create a new Project by clicking `New` and name it `reproducible-paper.
 - Choose an instance, for example `m1.xlarge` which has 4cpus and 15Gb RAM (it should be more than enough).
 
-We don't need to select data because we are going to bring code and data from github. <img src="https://www.pngfind.com/pngs/m/40-405156_github-octocat-logo-black-and-white-transparent-github.png"  width="35" align="center" >
+We don't need to select data because we are going to bring code and data from github. <imgsrc="https://www.pngfind.com/pngs/m/40-405156_github-octocat-logo-black-and-white-transparent-github.png"  width="25" align="center" >
  
 
 #### Step 2
