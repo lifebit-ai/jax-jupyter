@@ -4,13 +4,16 @@
 
 # Jupyter for Jax
 *Hands-on workshop material for using Jupyter Notebooks on the CloudOS platform*
-<br/><br/><br/>
+<br/><br/>
 
 
 <img src="img/cloudos_x_jupy.png"  width="500" align="center" >
 
 
 ### Agenda for the day:
+
+<br/><br/>
+
 
 | Time        | Programme       |
 | ----------- | --------------------------------------------------------------------------- |
@@ -27,6 +30,7 @@
 | 16:00-16:45 | Integrative Genomics Viewer on Lifebit CloudOS                              |
 | 16:50-17:00 | :wave: _Closing Remarks_                                                           |
 
+<br/><br/>
 
 
 ### Introduction to literate programming workflows with Jupyter Notebooks
