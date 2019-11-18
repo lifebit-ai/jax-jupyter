@@ -35,7 +35,7 @@ Installing packages
 
 
 ### Exploratory Data Analysis Fundamentals with Pandas 
-
+Pandas is an excellent python library for basic data handling tasks. 
 
 ### Interactive plotting with R in Jupyter Notebooks
 
