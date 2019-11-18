@@ -110,7 +110,7 @@ We don't need to select data because we are going to bring code and data from gi
  
 
 #### Step 2
-Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) and click <img src="img/clone_or_download.png"  width="85" align="center" > img/clone_or_download.png the repository.
+Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) and click [<img src="img/clone_or_download.png"  width="85" align="center" >](https://github.com/RainCloudPlots/RainCloudPlots) <br> Copy the link to the repository, we will need the link to clone it.
 
 #### Step 3 
 a) Go back to your Jupyter Notebook session and click on the top left corner `File` > `New` > `Terminal`.
