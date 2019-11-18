@@ -23,7 +23,7 @@
 | 10:00-10:10 | Configuration of Jupyter Notebooks on Lifebit CloudOS                       |
 | 10:10-11:00 | [Exploratory Data Analysis Fundamentals with Pandas in Jupyter Notebooks](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#exploratory-data-analysis-fundamentals-with-pandas---)     |
 | 11:00-11:20 | :coffee: _Coffee Break_                                                              |
-| 11:20-13:00 | Interactive plotting with R in Jupyter Notebooks                            |
+| 11:20-13:00 | [Interactive plotting with R in Jupyter Notebooks](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#interactive-plotting-with-r-in-jupyter-notebooks)                           |
 | 13:00-14:00 | :bento: _Lunch_                                                                     |
 | 14:00-15:00 | Will it reproduce? Revisiting a publication authored with Jupyter Notebooks |
 | 15:00-15:20 | :coffee: _Coffee Break_                                                              |
