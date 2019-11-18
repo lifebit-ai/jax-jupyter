@@ -109,5 +109,11 @@ Plan:
 
 ### Integrative Genomics Viewer on Lifebit CloudOS  
 
-Moving on to our last part of our tutorial, we will learn how to use Integrative Genomics Viewer (IGV) on the CloudOS platform and easily connect data from . Typically to use IGV, the minimal requirements are a laptop preferably with at least 4Gb of RAM and a registration procedure to fill in the respective form to get access to IGV. Additionally, data can be loaded only if available locally which places limitations in data size, especially when working with large files (cohort VCF, BAM). More details about the prerequisites to use IGV locally can be found in the [IGV User Guide](http://www.broadinstitute.org/software/igv/UserGuide) .  Contrary to the usual configuration required to use IGV, there are no prerequisites or installation steps to use IGV on CloudOS, nor the need to copy data. To access data we will simply link the data from our cloud storage provider and continue with the IGV analysis.
+Moving on to our last part of our tutorial, we will learn how to use Integrative Genomics Viewer (IGV) on the CloudOS platform and easily connect data from your cloud provider. Contrary to the usual configuration required to use IGV, there are no prerequisites or installation steps to use IGV on CloudOS, nor the need to copy data. To access data we will simply link the data from our cloud storage provider and continue with the IGV analysis.
+
+#### Step 1
+
+#### Step 2
+
+#### Step 3
 
