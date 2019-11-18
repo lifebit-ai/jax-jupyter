@@ -27,7 +27,7 @@
 | 13:00-14:00 | :bento: _Lunch_                                                                     |
 | 14:00-15:00 | [Will it reproduce? Revisiting a publication authored with Jupyter Notebooks](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#will-it-reproduce-revisiting-a-publication-authored-with-jupyter-notebooks) |
 | 15:00-15:20 | :coffee: _Coffee Break_                                                              |
-| 16:00-16:45 | Integrative Genomics Viewer on Lifebit CloudOS                              |
+| 16:00-16:45 | [Integrative Genomics Viewer on Lifebit CloudOS](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#integrative-genomics-viewer-on-lifebit-cloudos)                             |
 | 16:50-17:00 | :wave: _Closing Remarks_                                                           |
 
 <br/><br/>
