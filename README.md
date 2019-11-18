@@ -47,12 +47,20 @@ Pandas is an excellent python library that simplifies basic data handling tasks 
 
 #### Utils
 
+
+
+<details>
+<summary>
 Basic built-in functions and methods that we will use:
+</summary>
 
 - `.type()`
 - `.describe()`
 - `.shape()`
 - `.DataFrame()`
+
+</details>
+
 
 
 ### Interactive plotting with R in Jupyter Notebooks
@@ -66,7 +74,10 @@ For the second part of the workshop, we will switch to R to explore the great fu
 What does it take to submit a fully reproducible research piece? Notebooks, Jupyter Notebooks or Rmarkdown documents for example, have been proposed as a promising solution to accompany and bundle together in a reproducible report all the supplementary data of an scientific analysis that get published. Enabling other researchers reproduce our published work, offers the possibility of Postpublication Peer Review. During the Open Data Day 2017, hosted by SPARC and the NIH, within the two-day hackathon organised, an attempt to analyse [all Jupyter notebooks mentioned in PubMed Central](https://github.com/sparcopen/open-research-doathon/issues/25) started, with many contributors from the open source community, including [Daniel Mietchen](https://github.com/Daniel-Mietchen). Thanks to this initiative, a collection of metadata for publications including Jupyter Notebooks was created. At the time, approximately 100 publications from EuropePMC, which included Jupyter Notebooks to assist with reproducibility of their analysis were documented. Our goal for this part of the workshop is to select a publication with a Jupyter Notebook, and try to reproduce the analysis. The objective of this part is to realise the minimal requirements of a reproducible workflow and hopefully explore the literate programming workflow of the publication authors. The repository where this effort was coordinated can be found here: https://github.com/sparcopen/open-research-doathon. A relevant JupyterCon talk by [Daniel Mietchen](https://github.com/Daniel-Mietchen) can be also found here: https://youtu.be/Via7gBrjxHI
 
 
-__Plan:__
+<details>
+<summary>
+Plan:
+</summary>
 
 - Find the repository of the publication with the accomodating Jupyter Notebook
 - Go to our CloudOS Jupyter Notebook session and `git clone` the repository
@@ -74,6 +85,7 @@ __Plan:__
 - Troubleshoot as needed and note difficulties in reproducing the analysis
 - Make an issue and file the problems we have noticed
 
+</details>
 
 ### Integrative Genomics Viewer on Lifebit CloudOS  
 
