@@ -29,14 +29,19 @@
 
 
 
-### Introduction
+### Introduction to literate programming workflows with Jupyter Notebooks
 
 #### Configuration of Jupyter Notebooks on Lifebit CloudOS
 
+
+<details>
+<summary>
 Installing packages
-- with `conda`
+</summary>
+
 - with `pip`
 
+</details>
 
 #### Jupyter Shortcuts Cheatsheet
 
