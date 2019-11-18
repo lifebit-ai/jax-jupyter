@@ -16,7 +16,7 @@
 | ----------- | --------------------------------------------------------------------------- |
 | 9:00-9:15   | :wave: Welcome Address - Dr. Anne Deslattes Mays / Dr. Maria Chatzou Dunford       |
 | 9:15-9:30   | Demoing the end result                                                      |
-| 9:30-10:00  | Introduction to literate programming workflows with Jupyter Notebooks       |
+| 9:30-10:00  | [Introduction to literate programming workflows with Jupyter Notebooks](https://github.com/lifebit-ai/jax-jupyter/blob/master/README.md#introduction)    |
 | 10:00-10:10 | Configuration of Jupyter Notebooks on Lifebit CloudOS                       |
 | 10:10-11:00 | Exploratory Data Analysis Fundamentals with Pandas in Jupyter Notebooks     |
 | 11:00-11:20 | :coffee: _Coffee Break_                                                              |
