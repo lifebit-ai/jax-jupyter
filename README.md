@@ -3,6 +3,6 @@
 </p>
 
 
-# Jupyter for Jax
-*Hands-on workshop material for using Jupyter Notebooks on CloudOS*
+## Jupyter for Jax
+*Hands-on workshop material for using Jupyter Notebooks on the CloudOS platform*
 <br/><br/><br/>
