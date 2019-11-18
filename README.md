@@ -10,10 +10,9 @@
 <img src="img/cloudos_x_jupy.png"  width="500" align="center" >
 
 
-### Agenda for the day:
+## Agenda for the day:
 
 <br/><br/>
-
 
 | Time        | Programme       |
 | ----------- | --------------------------------------------------------------------------- |
