@@ -96,7 +96,7 @@ What does it take to submit a fully reproducible research piece? Notebooks, Jupy
 
 <details>
 <summary>
-Plan:
+Instructions:
 </summary>
 
 
