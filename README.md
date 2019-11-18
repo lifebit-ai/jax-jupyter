@@ -100,7 +100,7 @@ Plan:
 </summary>
 
 #### Step 1 
-Find the repository of the publication with the accomodating Jupyter Notebook
+Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) the repository of the publication with the accomodating Jupyter Notebook
 
 #### Step 2
 Go to our CloudOS Jupyter Notebook session and `git clone` the repository
