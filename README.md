@@ -4,8 +4,7 @@
 
 # Jupyter for Jax
 *Hands-on workshop material for using Jupyter Notebooks on the CloudOS platform*
-<br/><br/>
-
+<br/>
 
 <img src="img/cloudos_x_jupy.png"  width="600" align="center" >
 
