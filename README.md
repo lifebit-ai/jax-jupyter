@@ -6,7 +6,9 @@
 *Hands-on workshop material for using Jupyter Notebooks on the CloudOS platform*
 <br/><br/><br/>
 
-![](img/cloudos_x_jupy.png)
+
+<img src="img/cloudos_x_jupy.png"  width="500" align="center" >
+
 
 ### Agenda for the day:
 
