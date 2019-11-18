@@ -22,4 +22,24 @@
 | 14:00-15:00 | Will it reproduce? Revisiting a publication authored with Jupyter Notebooks |
 | 15:00-15:20 | :coffee: _Coffee Break_                                                              |
 | 16:00-16:45 | Integrative Genomics Viewer on Lifebit CloudOS                              |
-| 16:50-17:00 | :: _Closing Remarks_                                                           |
+| 16:50-17:00 | :wave: _Closing Remarks_                                                           |
+
+
+
+### Introduction
+#### Configuration of Jupyter Notebooks on Lifebit CloudOS
+
+Installing packages
+- with `conda`
+- with `pip`
+
+
+### Exploratory Data Analysis Fundamentals with Pandas 
+
+
+### Interactive plotting with R in Jupyter Notebooks
+
+
+### Will it reproduce? Revisiting a publication authored with Jupyter Notebooks
+
+Mention JupyterCon Talk by Mietchen and the following hackathon
