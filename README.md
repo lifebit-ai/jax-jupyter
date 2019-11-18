@@ -4,8 +4,7 @@
 
 # Jupyter for Jax
 *Hands-on workshop material for using Jupyter Notebooks on the CloudOS platform*
-<br/><br/>
-
+<br/>
 
 <img src="img/cloudos_x_jupy.png"  width="600" align="center" >
 
@@ -96,7 +95,7 @@ What does it take to submit a fully reproducible research piece? Notebooks, Jupy
 
 <details>
 <summary>
-Plan:
+Instructions:
 </summary>
 
 
@@ -107,17 +106,24 @@ Go to CloudOS and initialise a Jupyter Notebook session:
 - Create a new Project by clicking `New` and name it `reproducible-paper.
 - Choose an instance, for example `m1.xlarge` which has 4cpus and 15Gb RAM (it should be more than enough).
 
-We don't need to select data because we are going to bring code and data from github.
+We don't need to select data because we are going to bring code and data from github. <img src="https://www.pngfind.com/pngs/m/40-405156_github-octocat-logo-black-and-white-transparent-github.png"  width="25" align="center" >
+ 
 
 #### Step 2
-Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) and `git clone` the repository.
+Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) and click <img src="img/clone_or_download.png"  width="25" align="center" > img/clone_or_download.png the repository.
 
-#### Step 3
-Navigate to the [RainCloudPlots/tutorial_python/raincloud_tutorial_python.ipynb]()
-Launch the `.ipynb` file and start exploring
+#### Step 3 
+a) Go back to your Jupyter Notebook session and click on the top left corner `File` > `New` > `Terminal`.
+
+
+b) Navigate to the `RainCloudPlots/tutorial_python/` folder in your Jupyter Lab session.  <br>
+c) Find and click `raincloud_tutorial_python.ipynb` to launch the Jupyter Notebook.
+
 
 #### Step 4
-Troubleshoot as needed and note difficulties in reproducing the analysis
+
+We are now ready to start reproducing the analysis, by running each cell of the Notebook.
+
 
 #### Step 5
 Make an issue and file the problems we have noticed
