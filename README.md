@@ -44,9 +44,7 @@ Installing packages
 - with `pip`
 - with `conda`
 
-To add conda channels on our machine
-
-Go to CloudOS and initialise a Jupyter Notebook session:
+To add conda channels on our machine, go to [CloudOS](https://cloudos.lifebit.ai) and initialise a Jupyter Notebook session.
 
 - Click `New analysis` > `Jupyter Session`
 - Create a new Project by clicking `New` and name it `reproducible-paper.
