@@ -44,7 +44,17 @@ Installing packages
 - with `pip`
 - with `conda`
 
-Adding conda channels on our machine:
+To add conda channels on our machine
+
+Go to CloudOS and initialise a Jupyter Notebook session:
+
+- Click `New analysis` > `Jupyter Session`
+- Create a new Project by clicking `New` and name it `reproducible-paper.
+- Choose an instance, for example `m1.xlarge` which has 4cpus and 15Gb RAM (it should be more than enough).
+
+Once the instance has initialised, go to your Jupyter Notebook session and click on the top left corner `File` > `New` > `Terminal`.
+
+This will open a terminal. Type the following commands to add conda channels, so that we can subsequently install libraries with conda:
 
 ```
 conda config --add channels defaults
