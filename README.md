@@ -44,7 +44,15 @@ Installing packages
 - with `pip`
 - with `conda`
 
-Adding conda channels on our machine:
+To add conda channels on our machine, go to [CloudOS](https://cloudos.lifebit.ai) and initialise a Jupyter Notebook session.
+
+- Click `New analysis` > `Jupyter Session`
+- Create a new Project by clicking `New` and name it `reproducible-paper.
+- Choose an instance, for example `m1.xlarge` which has 4cpus and 15Gb RAM (it should be more than enough).
+
+Once the instance has initialised, go to your Jupyter Notebook session and click on the top left corner `File` > `New` > `Terminal`.
+
+This will open a terminal. Type the following commands to add conda channels, so that we can subsequently install libraries with conda:
 
 ```
 conda config --add channels defaults
@@ -110,7 +118,7 @@ We don't need to select data because we are going to bring code and data from gi
  
 
 #### Step 2
-Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) and click <img src="img/clone_or_download.png"  width="25" align="center" > img/clone_or_download.png the repository.
+Go to [RainCloudPlots/RainCloudPlots](https://github.com/RainCloudPlots/RainCloudPlots) and click [<img src="img/clone_or_download.png"  width="85" align="center" >](https://github.com/RainCloudPlots/RainCloudPlots) <br> Copy the link to the repository, we will need the link to clone it.
 
 #### Step 3 
 a) Go back to your Jupyter Notebook session and click on the top left corner `File` > `New` > `Terminal`.
