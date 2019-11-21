@@ -31,7 +31,12 @@
 <br/><br/>
 
 
-### 1. Introduction to literate programming workflows with Jupyter Notebooks
+### 1. Introduction to literate programming workflows with Jupyter Notebooks on CloudOS
+
+
+#### Set up your instance for version control
+
+After you have forked the repository, `<USER_aka_you>/jax-jupyter`, click on <img src="img/clone_or_download.png"  width="85" align="center" > and click `SSH` to change the url.
 
 #### Configuration of Jupyter Notebooks on Lifebit CloudOS
 
@@ -63,7 +68,6 @@ conda config --add channels conda-forge
 </details>
 
 
-#### Set up your GitHub account for
 
 #### Jupyter Shortcuts Cheatsheet
 
