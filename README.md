@@ -149,9 +149,3 @@ Make an issue and file the problems we have noticed
 
 Moving on to our last part of our tutorial, we will learn how to use Integrative Genomics Viewer (IGV) on the CloudOS platform and easily connect data from your cloud provider. Contrary to the usual configuration required to use IGV, there are no prerequisites or installation steps to use IGV on CloudOS, nor the need to copy data. To access data we will simply link the data from our cloud storage provider and continue with the IGV analysis.
 
-#### Step 1
-
-#### Step 2
-
-#### Step 3
-
